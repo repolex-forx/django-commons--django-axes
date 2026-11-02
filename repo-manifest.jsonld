@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-axes/commit/ba9926171dd93e1006c23bb54cb6bfc274b21fd6",
       "git:hexsha": "ba9926171dd93e1006c23bb54cb6bfc274b21fd6",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "9.0.0"
     },
     {
