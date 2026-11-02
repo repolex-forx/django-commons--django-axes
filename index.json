@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "django-axes",
+  "versions": [
+    {
+      "commit": "ba9926171dd93e1006c23bb54cb6bfc274b21fd6",
+      "tag": "9.0.0",
+      "parsed_at": "2026-11-02T18:34:28.552310+00:00"
+    }
+  ]
+}
